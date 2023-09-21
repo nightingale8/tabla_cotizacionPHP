@@ -1,12 +1,15 @@
-<html>
-    <head>
-        <title>TablaEjemplo</title>
-    </head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
-
+    
 <!--- construccion de la tabla--->
 
-    <?php 
+<?php 
         echo '<table withd="80%" align="center" cellpadding="12px" cellspading="0px" border="1px"';
         echo '<tr>';
         echo '<td align="center" bgcolor="#1D90EB" width=""'."<h3>"."No"."</h3>".'</td>';
@@ -87,9 +90,6 @@
         while($numInicial<=$numLimite);
         echo '</table>'
     ?>
-
-
-
 
 </body>
 </html>
