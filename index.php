@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>TablaEjemplo</title>
+        <title>cotizador</title>
     </head>
     <body>
         <section> <!--- ingresar datos --->
